@@ -1,0 +1,19 @@
+Month,Product,Region,Sales
+January,Product A,North,1200
+January,Product B,North,900
+January,Product C,North,700
+January,Product A,South,1100
+January,Product B,South,800
+January,Product C,South,600
+February,Product A,North,1500
+February,Product B,North,1200
+February,Product C,North,1000
+February,Product A,South,1400
+February,Product B,South,1000
+February,Product C,South,900
+March,Product A,North,1700
+March,Product B,North,1400
+March,Product C,North,1200
+March,Product A,South,1600
+March,Product B,South,1300
+March,Product C,South,1000

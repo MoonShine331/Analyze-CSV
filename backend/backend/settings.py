@@ -2,13 +2,15 @@ from pathlib import Path
 from datetime import timedelta
 from decouple import config
 
-OPENAI_API_KEY = config('OPENAI_API_KEY')
+OPENAI_API_KEY = config('OPENAI_KEY')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-5tma+&&i(jnx)(0a$s05z10o=4!v%4*xz28l@9@6p!m$0nqb!y'
 
 DEBUG = True
+
+print(OPENAI_API_KEY)
 
 ALLOWED_HOSTS = []
 
